@@ -930,6 +930,8 @@ a:hover {
 .audio-list { border-bottom: 1px solid #ccc; }
 .audio-list li { border-top: 1px solid #ccc; }
 
+.audio-f { display: none; }
+
 .young-page .pager a.act, .young-page .navMobile p a.act, .young-page .nav li > a.act, .young-page .nav li > a:hover { color: #00ba9a; }
 .young-page .audio-btn.act, .young-page .to-ti, .young-page .in-nav a.act, .young-page .gu-nav a:before, .young-page .fix-nav .dot:before, .young-page .fix-nav a.act .dot, .young-page .at-ti .tx2, .young-page .slick-dots li:hover, .young-page .slick-dots li.slick-active, .young-page .ix-line .ib, .young-page .bt-name .ib, .young-page .h-link-2 .b a.o, .young-page .menuBox .h-link.act .t { background: #00ba9a; }
 .young-page .audio-ico, .young-page .dw-b a:after, .young-page .fix-nav .dot:before, .young-page .sy-v .dot:before { border: 1px solid #00ba9a; }

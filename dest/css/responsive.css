@@ -24,7 +24,7 @@
   .share a:hover { background-position: center bottom; }
   .ixmore .ib:hover .bico { transform: rotate(90deg); }
   .av-a:hover .ico { background-position: center bottom; }
-  .av-a:hover .dot:after { transform: none; opacity: 0; visibility: hidden; }
+  .av-a:hover .dot:after { transform: scale(0); opacity: 0; visibility: hidden; }
   .fix-nav a:hover .dot:before { opacity: 1; visibility: visible; transform: none; background-color: transparent; }
   .ab-more-hover:hover .ab-more { color: #fff; }
   .ab-more-hover:hover .ab-more .aw:before { opacity: 0; visibility: hidden; transform: translateX(20px); transition: 200ms; }

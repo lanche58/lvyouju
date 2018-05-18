@@ -375,14 +375,16 @@
     $(function(){
         var timer;
         var rotate = [];
+        var anum = $('.audio-list li').size();
         $('.audio-list li').each(function(i, el) {
-            rotate[i] = 0;    
+            rotate[i] = 0;
         });
         $('.audio-btn').bind(_click, function() {
             var $f = $(this).parents('li');
             var index = $f.index();
             var $act = $(this).hasClass('act');
             var $au = document.getElementById('au');
+            var $img = $f.find('.audio-pic');
             if($au!=null){
                 $au.pause();
                 $('.audio-f').attr('id','');
@@ -394,17 +396,44 @@
                 var $au = document.getElementById('au');
                 $au.play();
                 $(this).addClass('act');
-                audioRotate($f.find('.audio-pic'),index);
+                audioRotate($img,index);
+                listenPlay($au,$f);
             }
         });
         function audioRotate(item,i){
             item.css({
-                'transform': 'rotate(' + rotate[i] +'deg'
+                'transform': 'rotate(' + rotate[i] +'deg',
+                '-webkit-transform': 'rotate(' + rotate[i] +'deg'
             });
             timer = setTimeout(function(){
                 rotate[i]++;
                 audioRotate(item,i);
             },50);
+        };
+        function listenPlay(item1,item2){
+            var timer2 = setInterval(function(){
+                if(item1.currentTime==item1.duration){
+                    clearInterval(timer2);
+                    item1.currentTime = 0;
+                    item2.find('.audio-btn').removeClass('act');
+                    clearTimeout(timer);
+                    item2.find('.audio-pic').attr('style','');
+                    rotate[item2.index()] = 0;
+                    goOnNextPlay(item2.index());
+                }
+            },100);
+        };
+        function goOnNextPlay(i){
+            var j = i + 1;
+            if(j>anum-1){ j = 0; }
+            $('.audio-f').attr('id','');
+            var $j = $('.audio-list li').eq(j);
+            $j.find('.audio-f').attr('id','au');
+            var $au = document.getElementById('au');
+            $au.play();
+            $j.find('.audio-btn').addClass('act');
+            audioRotate($j.find('.audio-pic'),j);
+            listenPlay($au,$j);
         };
     })
 </script>
