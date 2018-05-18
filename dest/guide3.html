@@ -379,7 +379,7 @@
     $(function(){
         function turnNewsFix(){
             var st = $(window).scrollTop();
-            var a = $('.gu3').offset().top - $mtoph;
+            var a = $('.gu3').offset().top - $mtoph + parseInt($('.gu3').css('padding-top'));
             var f = $('.footer').offset().top - w_height;
             if(st>a&&st<f){
                 $('.in-nav').addClass('fix').removeClass('hide');
