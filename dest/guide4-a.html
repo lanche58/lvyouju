@@ -23,6 +23,15 @@
 <![endif]-->
 </head>
 <body class="orange-page">
+<div class="load-bg"></div>
+<script>
+    if($('.load-bg').size()!=0){
+        $('.load-bg').addClass('hide');
+        setTimeout(function () {
+            $('.load-bg').hide();
+        },2000);
+    }
+</script>
 <div class="header">
     <div class="pg-pa clearfix">
         <a href="index.html" class="logo"><img src="images/logo.png" class="lgImg"/></a>
