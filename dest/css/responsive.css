@@ -1,13 +1,20 @@
-@media screen and (min-width: 1153px) { .young-page .audio-btn:hover, .young-page .in-nav a:hover, .young-page .ag-link a:hover, .young-page .pv-c.act .t, .young-page .pv-c:hover .t, .young-page .fix-back a:hover, .young-page .ab-more-hover:hover .ab-more, .young-page .fix-nav a:hover .dot:after, .young-page .av-a:hover .dot:before, .young-page .ixmore:hover .ib, .young-page .inw-a:hover .sqm-box:before, .young-page .fs-arrow .slick-arrow:hover, .young-page .tv-ab .txts a:hover .line, .young-page .tv-ab .txts a:hover:before, .young-page .h-link .b a:hover { background-color: #00ba9a; }
-  .young-page .pager a:hover, .young-page .ag-cta a:hover, .young-page .tf-link a:hover, .young-page .footer a:hover { color: #00ba9a; }
+@media screen and (min-width: 1153px) { .young-page .h-link-2:hover .t, .young-page .sg-arrow:hover, .young-page .scenic-arrow .slick-arrow:hover, .young-page .scg-atlas-btn .ib:hover, .young-page .audio-btn:hover, .young-page .in-nav a:hover, .young-page .ag-link a:hover, .young-page .pv-c:hover .t, .young-page .fix-back a:hover, .young-page .ab-more-hover:hover .ab-more, .young-page .fix-nav a:hover .dot:after, .young-page .av-a:hover .dot:before, .young-page .ixmore:hover .ib, .young-page .inw-a:hover .sqm-box:before, .young-page .fs-arrow .slick-arrow:hover, .young-page .tv-ab .txts a:hover .line, .young-page .tv-ab .txts a:hover:before, .young-page .h-link .b a:hover { background-color: #00ba9a; }
+  .young-page .sg-hots-list a:hover, .young-page .de-nav a:hover, .young-page .pager a:hover, .young-page .ag-cta a:hover, .young-page .tf-link a:hover, .young-page .footer a:hover { color: #00ba9a; }
   .young-page .pager a:hover, .young-page .av-a:hover .dot, .young-page .ixmore:hover .ib { border-color: #00ba9a; }
-  .red-page .audio-btn:hover, .red-page .in-nav a:hover, .red-page .ag-link a:hover, .red-page .pv-c.act .t, .red-page .pv-c:hover .t, .red-page .fix-back a:hover, .red-page .ab-more-hover:hover .ab-more, .red-page .fix-nav a:hover .dot:after, .red-page .av-a:hover .dot:before, .red-page .ixmore:hover .ib, .red-page .inw-a:hover .sqm-box:before, .red-page .fs-arrow .slick-arrow:hover, .red-page .tv-ab .txts a:hover .line, .red-page .tv-ab .txts a:hover:before, .red-page .h-link .b a:hover { background-color: #c52720; }
-  .red-page .pager a:hover, .red-page .ag-cta a:hover, .red-page .tf-link a:hover, .red-page .footer a:hover { color: #c52720; }
+  .red-page .h-link-2:hover .t, .red-page .sg-arrow:hover, .red-page .scenic-arrow .slick-arrow:hover, .red-page .scg-atlas-btn .ib:hover, .red-page .audio-btn:hover, .red-page .in-nav a:hover, .red-page .ag-link a:hover, .red-page .pv-c:hover .t, .red-page .fix-back a:hover, .red-page .ab-more-hover:hover .ab-more, .red-page .fix-nav a:hover .dot:after, .red-page .av-a:hover .dot:before, .red-page .ixmore:hover .ib, .red-page .inw-a:hover .sqm-box:before, .red-page .fs-arrow .slick-arrow:hover, .red-page .tv-ab .txts a:hover .line, .red-page .tv-ab .txts a:hover:before, .red-page .h-link .b a:hover { background-color: #c52720; }
+  .red-page .sg-hots-list a:hover, .red-page .de-nav a:hover, .red-page .pager a:hover, .red-page .ag-cta a:hover, .red-page .tf-link a:hover, .red-page .footer a:hover { color: #c52720; }
   .red-page .pager a:hover, .red-page .av-a:hover .dot, .red-page .ixmore:hover .ib { border-color: #c52720; }
-  .orange-page .audio-btn:hover, .orange-page .in-nav a:hover, .orange-page .ag-link a:hover, .orange-page .pv-c.act .t, .orange-page .pv-c:hover .t, .orange-page .fix-back a:hover, .orange-page .ab-more-hover:hover .ab-more, .orange-page .fix-nav a:hover .dot:after, .orange-page .av-a:hover .dot:before, .orange-page .ixmore:hover .ib, .orange-page .inw-a:hover .sqm-box:before, .orange-page .fs-arrow .slick-arrow:hover, .orange-page .tv-ab .txts a:hover .line, .orange-page .tv-ab .txts a:hover:before, .orange-page .h-link .b a:hover { background-color: #ec6941; }
-  .orange-page .pager a:hover, .orange-page .ag-cta a:hover, .orange-page .tf-link a:hover, .orange-page .footer a:hover { color: #ec6941; }
+  .green-page .h-link-2:hover .t, .green-page .sg-arrow:hover, .green-page .scenic-arrow .slick-arrow:hover, .green-page .scg-atlas-btn .ib:hover, .green-page .audio-btn:hover, .green-page .in-nav a:hover, .green-page .ag-link a:hover, .green-page .pv-c:hover .t, .green-page .fix-back a:hover, .green-page .ab-more-hover:hover .ab-more, .green-page .fix-nav a:hover .dot:after, .green-page .av-a:hover .dot:before, .green-page .ixmore:hover .ib, .green-page .inw-a:hover .sqm-box:before, .green-page .fs-arrow .slick-arrow:hover, .green-page .tv-ab .txts a:hover .line, .green-page .tv-ab .txts a:hover:before, .green-page .h-link .b a:hover { background-color: #2b7e38; }
+  .green-page .sg-hots-list a:hover, .green-page .de-nav a:hover, .green-page .pager a:hover, .green-page .ag-cta a:hover, .green-page .tf-link a:hover, .green-page .footer a:hover { color: #2b7e38; }
+  .green-page .pager a:hover, .green-page .av-a:hover .dot, .green-page .ixmore:hover .ib { border-color: #2b7e38; }
+  .blue-page .h-link-2:hover .t, .blue-page .sg-arrow:hover, .blue-page .scenic-arrow .slick-arrow:hover, .blue-page .scg-atlas-btn .ib:hover, .blue-page .audio-btn:hover, .blue-page .in-nav a:hover, .blue-page .ag-link a:hover, .blue-page .pv-c:hover .t, .blue-page .fix-back a:hover, .blue-page .ab-more-hover:hover .ab-more, .blue-page .fix-nav a:hover .dot:after, .blue-page .av-a:hover .dot:before, .blue-page .ixmore:hover .ib, .blue-page .inw-a:hover .sqm-box:before, .blue-page .fs-arrow .slick-arrow:hover, .blue-page .tv-ab .txts a:hover .line, .blue-page .tv-ab .txts a:hover:before, .blue-page .h-link .b a:hover { background-color: #242d66; }
+  .blue-page .sg-hots-list a:hover, .blue-page .de-nav a:hover, .blue-page .pager a:hover, .blue-page .ag-cta a:hover, .blue-page .tf-link a:hover, .blue-page .footer a:hover { color: #242d66; }
+  .blue-page .pager a:hover, .blue-page .av-a:hover .dot, .blue-page .ixmore:hover .ib { border-color: #242d66; }
+  .orange-page .h-link-2:hover .t, .orange-page .sg-arrow:hover, .orange-page .scenic-arrow .slick-arrow:hover, .orange-page .scg-atlas-btn .ib:hover, .orange-page .audio-btn:hover, .orange-page .in-nav a:hover, .orange-page .ag-link a:hover, .orange-page .pv-c:hover .t, .orange-page .fix-back a:hover, .orange-page .ab-more-hover:hover .ab-more, .orange-page .fix-nav a:hover .dot:after, .orange-page .av-a:hover .dot:before, .orange-page .ixmore:hover .ib, .orange-page .inw-a:hover .sqm-box:before, .orange-page .fs-arrow .slick-arrow:hover, .orange-page .tv-ab .txts a:hover .line, .orange-page .tv-ab .txts a:hover:before, .orange-page .h-link .b a:hover { background-color: #ec6941; }
+  .orange-page .sg-hots-list a:hover, .orange-page .de-nav a:hover, .orange-page .pager a:hover, .orange-page .ag-cta a:hover, .orange-page .tf-link a:hover, .orange-page .footer a:hover { color: #ec6941; }
   .orange-page .pager a:hover, .orange-page .av-a:hover .dot, .orange-page .ixmore:hover .ib { border-color: #ec6941; }
   .h-link .b a:hover:before { border-color: #fff; }
+  .h-link .b a:hover:after { opacity: 1; visibility: visible; }
   .h-link .b a:hover .ico { background-position: center bottom; }
   .ix-es:hover .txts { opacity: 1; visibility: visible; }
   .ix-es:hover .txts .pa { transform: none; }
@@ -22,13 +29,15 @@
   .inw-a:hover .sq-more { color: #fff; }
   .inw-a:hover .inw-line:before { left: 0; right: auto; width: 100%; }
   .share a:hover { background-position: center bottom; }
-  .ixmore .ib:hover .bico { transform: rotate(90deg); }
   .av-a:hover .ico { background-position: center bottom; }
-  .av-a:hover .dot:after { transform: none; opacity: 0; visibility: hidden; }
+  .av-a:hover .dot:after { transform: scale(0); opacity: 0; visibility: hidden; }
   .fix-nav a:hover .dot:before { opacity: 1; visibility: visible; transform: none; background-color: transparent; }
   .ab-more-hover:hover .ab-more { color: #fff; }
   .ab-more-hover:hover .ab-more .aw:before { opacity: 0; visibility: hidden; transform: translateX(20px); transition: 200ms; }
   .ab-more-hover:hover .ab-more .aw:after { opacity: 1; visibility: visible; transform: none; transition: 200ms 400ms; }
+  .ia-more .ib:hover .ia-plus { width: 9px; right: 56px; transition: width 300ms, right 300ms, transform 300ms 300ms; }
+  .ia-more .ib:hover .ia-plus:before { width: 100%; right: 0; }
+  .ia-more .ib:hover .ia-plus:after { opacity: 1; visibility: visible; transform: translate(0); }
   .fix-back a:hover { color: #fff; }
   .fix-back .prev:hover .bico { background-position: -150px -42px; }
   .fix-back .next:hover .bico { background-position: -192px 0; }
@@ -42,7 +51,17 @@
   .hotel-list li:hover { background: #f7f7f7; }
   .in-nav a:hover { color: #fff; }
   .in-nav a:hover .aico { opacity: 1; visibility: visible; transform: none; }
-  .audio-btn.act:hover { background: #a0a0a0; } }
+  .audio-btn.act:hover { background: #a0a0a0; }
+  .atlas-btn:hover .aico { opacity: 0; visibility: hidden; }
+  .atlas-btn:hover .ico { transform: scale(1); opacity: 1; visibility: visible; }
+  .scg-ti:hover .tx2 { transform: translateX(10px); }
+  .scg-close:hover { color: #242d66; }
+  .scg-close:hover .aico { background-position: 0px -120px; transform: rotate(180deg); }
+  .spot-a .item:hover .txts { opacity: 1; visibility: visible; }
+  .spot-a .item:hover .txts .pa { transform: none; }
+  .h-link-2:hover .t .aico { background-position: -168px -98px; }
+  .h-link-2 a:hover { color: #fff; } }
+@media screen and (max-width: 1800px) { .inbound-box { padding-right: 20%; } }
 @media screen and (max-width: 1600px) { .mtop { height: 100px; }
   .header { height: 100px; }
   .header .logo { margin-top: 16px; }
@@ -50,7 +69,16 @@
   .header .h-link { margin-top: 20px; }
   .banner-box .banner .item .txts .line { width: 27%; }
   .ix-ab .txts .txx { font-size: 32px; }
-  .ix-pa { padding-left: 12%; } }
+  .ix-pa { padding-left: 12%; }
+  .ab-tx.w, .ab-fl .ab-tx { margin-right: 15%; }
+  .fix-nav li { height: 70px; }
+  .at-ti .tx1 { font-size: 62px; }
+  .sy-imgs .pic2 { top: 100px; }
+  .sg-hots-list { margin-left: -50px; }
+  .sg-hots-list .ma { margin-left: 50px; }
+  .to-a .tx { width: 790px; }
+  .inbound-box { padding-right: 12%; }
+  .in-nav.fix { top: 100px; } }
 @media screen and (max-width: 1440px) { .tv-ab .txts { padding-top: 5%; }
   .banner-box .banner .item .txts .tx2 { font-size: 80px; }
   .ix-ab .txts .txx { font-size: 28px; }
@@ -59,7 +87,11 @@
   .ic-a .pic { width: 340px; }
   .ic-a .txts { height: 215px; margin-left: 340px; padding: 40px 30px 0 30px; }
   .ic-a .txts .tx2 { margin-bottom: 35px; }
-  .ic-a .txts .tx1 { font-size: 20px; line-height: 24px; height: 48px; margin-bottom: 23px; } }
+  .ic-a .txts .tx1 { font-size: 20px; line-height: 24px; height: 48px; margin-bottom: 23px; }
+  .ab-tx.w, .ab-fl .ab-tx { margin-right: 10%; }
+  .ab-mt-1 { margin-top: 60px; }
+  .to-a .tx { font-size: 20px; width: 690px; }
+  .inbound-box { padding-right: 8%; } }
 @media screen and (max-width: 1366px) { .mtop { height: 80px; }
   .header { height: 80px; }
   .header .logo { margin-top: 6px; transform-origin: left center; -ms-transform-origin: left center; -moz-transform-origin: left center; transform: scale(0.8); -ms-transform: scale(0.8); -moz-transform: scale(0.8); }
@@ -97,27 +129,93 @@
   .ix5 .inw-list { margin-top: 95px; }
   .f-cop span { display: block; }
   .header .tnav dd .tv-sy { padding-bottom: 60px; }
-  .ix-es .txts .pa { padding-right: 10%; } }
+  .ix-es .txts .pa { padding-right: 10%; }
+  .ab-tx.w, .ab-fl .ab-tx { width: 40%; margin-right: 45px; }
+  .at-ti .tx1 { font-size: 52px; }
+  .at-tx { font-size: 22px; }
+  .ab-nav li { width: 218px; }
+  .ab4, .ab3, .ab2, .ab1 { padding-top: 95px; }
+  .ab4 { padding-bottom: 95px; }
+  .ab-mt { margin-top: 95px; }
+  .ap-list { margin-left: -20px; }
+  .ap-list .am-vision { margin-left: 20px; }
+  .food-list { margin-left: -30px; }
+  .food-list .food-a { margin-left: 30px; }
+  .avi-list { margin-left: -30px; }
+  .avi-list .avi-a { margin-left: 30px; }
+  .food-a .ti { font-size: 20px; line-height: 32px; height: 64px; margin-top: 35px; }
+  .food-a .ix-line { margin: 25px 0 30px 0; }
+  .food-a .tx { height: 234px; }
+  .fix-nav li { height: 60px; }
+  .inw-a .ti1 { font-size: 20px; line-height: 26px; height: 52px; }
+  .inw-a .txts1 { height: 285px; }
+  .aig-list { margin-left: -6px; }
+  .aig-list .item { margin-bottom: 6px; }
+  .aig-list .item a { margin-left: 6px; }
+  .aig-list .item .txts { left: 6px; }
+  .sy-imgs .pic2 { top: 80px; }
+  .ab-title.ab-title-line .at-ti .tx1 { font-size: 52px; }
+  .spot-list { margin-left: -20px; }
+  .spot-list .spot-a { margin-left: 20px; }
+  .sg-hots-list li { width: 50%; margin-bottom: 40px; }
+  .sg-hots-list .item1 { clear: both; }
+  .scenic-arrow .slick-arrow { transform: scale(0.8); }
+  .scenic-arrow .slick-prev { transform-origin: left center; }
+  .scenic-arrow .slick-next { transform-origin: right center; }
+  .sg-arrow { transform: scale(0.8); }
+  .sg-arrow.sg-prev { transform-origin: left center; }
+  .sg-arrow.sg-next { transform-origin: right center; }
+  .spot-group .slick-dots { right: 25px; left: 25px; }
+  .spot-group .slick-dots li + li { margin-left: 25px; }
+  .pw { width: 1000px; }
+  .gu1, .gu2 { padding-bottom: 95px; }
+  .to-a .txts { padding-left: 45px; padding-right: 25px; }
+  .to-a .tx { font-size: 16px; line-height: 28px; height: 56px; width: 590px; }
+  .at-tx.at-tx-2 { font-size: 32px; }
+  .at-tx.at-tx-1 { font-size: 38px; }
+  .inbound-box { padding-right: 5%; }
+  .in-nav.fix { top: 80px; }
+  .in-nav { width: 280px; }
+  .in-nav a { padding: 0 25px; }
+  .in-nav .aico { right: 15px; }
+  .in-nav .nowti { line-height: 60px; } }
 @media screen and (max-width: 1281px) { .banner-box .banner .item .txts .line { width: 20%; }
   .ix-ab .txts { padding-top: 0; }
   .sq-a { height: 205px; }
   .sq-a .ti { font-size: 20px; line-height: 24px; height: 48px; }
-  .ix-fr .dt-box { right: 0; margin: 0; } }
-@media screen and (max-width: 1153px) { .header .pg-pa { padding-right: 0; padding-left: 0; }
-  .header .logo { margin-left: 30px; }
-  .header .r { margin-right: 20px; }
-  .footer .f-nav { float: none; }
+  .ix-fr .dt-box { right: 0; margin: 0; }
+  .ab-tx.w, .ab-fl .ab-tx { width: 45%; }
+  .ab-nav li { width: 200px; }
+  .inbound-box .ab-tx { width: 670px; } }
+@media screen and (max-width: 1201px) { .menu-handler { display: block; top: 10px; }
+  .header .r { display: none; }
+  .header .logo { position: absolute; left: 5%; top: 50%; margin: 0; margin-top: -34px; }
+  .ab-fl { padding: 0 5%; }
+  .ab-fl .ab-tx { float: none; width: 100%; margin: 50px 0 0 0; }
+  .ab-fl .ab-tx .ix-line { display: none; }
+  .ab-fl .ab-title { float: none; padding-left: 0; }
+  .ab3.hide { padding-top: 0; }
+  .ab3.hide .ab-nav { display: none; }
+  .food-list { margin-left: -20px; }
+  .food-list .food-a { margin-left: 20px; }
+  .avi-list { margin-left: -20px; }
+  .avi-list .avi-a { margin-left: 20px; }
+  .hotel-list li { width: 100%; float: none; }
+  .hotel-list { border-top: 1px solid #ccc; }
+  .hotel-list li:nth-child(-n+2) { border-top: none; }
+  .hotel-list .bodr { height: auto; padding-bottom: 55px; } }
+@media screen and (max-width: 1153px) { .footer .f-nav { float: none; }
   .footer .f-cta { float: none; margin: 0; padding-left: 0; border: none; }
-  .tv-ab .txts li a + a { margin-top: 3px; }
-  .banner-box .banner .item .txts .tx2 { font-size: 70px; } }
+  .banner-box .banner .item .txts .tx2 { font-size: 70px; }
+  .avi-a .txts .avi-tx { font-size: 20px; }
+  .inbound-box .ab-tx { width: 570px; } }
 @media screen and (max-width: 1024px) { .vwrap .videobox { width: 700px; margin-left: -350px; }
-  .pw { width: 90%; }
+  .pw { width: 100%; }
   .fixbg { background-attachment: scroll; }
-  .menu-handler { display: block; }
   .mtop { height: 60px; }
   .header { height: 60px; }
-  .header .r { display: none; }
-  .header .logo { position: absolute; left: 5%; top: 50%; margin: 0; margin-top: -34px; transform: scale(0.6); }
+  .header .logo { transform: scale(0.6); }
+  .menu-handler { top: 0; }
   .banner-box .banner .item .picbox { margin: 0 5%; }
   .banner-box .banner .item .pic2 { position: static; }
   .banner-box .banner .item .pic { display: none; }
@@ -139,8 +237,8 @@
   .ix-ab .txts { width: 55%; }
   .ix-ab .pic { margin-top: 5%; }
   .ix-es .es-ti { padding-bottom: 20px; }
+  .ix2 .ix-sq li:nth-child(n+4), .ix5 .inw-list li:nth-child(n+4) { display: none; }
   .inw-list li, .ix-sq li { width: 33.33%; }
-  .inw-list li:nth-child(n+4), .ix-sq li:nth-child(n+4) { display: none; }
   .fs-a .txts { height: 68px; }
   .fs-a .txts .tx { height: auto; white-space: nowrap; text-overflow: ellipsis; }
   .ic-a .pic { display: none; }
@@ -150,7 +248,63 @@
   .ix-fs .slick-prev { transform-origin: right center; }
   .ix-fs .slick-next { transform-origin: left center; }
   .ix-fr .txts { width: 70%; }
-  .ix5 { padding-top: 75px; } }
+  .ix5 { padding-top: 75px; }
+  .pbanner .pic2 > img { transform: none !important; }
+  .am-vision .av-bg, .fix-nav { display: none; }
+  .am-vision .pic, .fixbg > .pic { opacity: 1; visibility: visible; }
+  .mpnav-box { display: block; }
+  .pull-nav .nowti { line-height: 60px; padding: 0 20px; }
+  .pull-nav .pv-c { height: 60px; }
+  .pv-c .t .nowti { padding-right: 30px; }
+  .pv-c .bico { right: 15px; transform-origin: right center; transform: scale(0.8); }
+  .aig-list .item .txts { transform: none; opacity: 1; visibility: visible; }
+  .avi-btn { transform: scale(0.7); }
+  .sy-imgs { display: none; }
+  .sy-tx { width: 100%; padding-top: 0; }
+  .sy-item { padding: 0; margin-bottom: 95px; }
+  .sy-item .pic { display: block; }
+  .sy-item .sy-arrow { display: none; }
+  .scenic-item > .scenic-ti { left: 5%; }
+  .scg-a .picbox .txts { padding-left: 5%; padding-right: 5%; }
+  .scg-a .atlas-btn { bottom: 30px; }
+  .scg-a .l { padding-left: 5%; }
+  .sg-arrow, .scenic-arrow .slick-arrow { background-color: rgba(160, 160, 160, 0.8); transform: scale(0.7); }
+  .de-mt { margin-top: 70px; }
+  .spot-a .spo-ti { left: 5%; top: 25px; }
+  .spot-a .sog-ti { left: 5%; bottom: 30px; }
+  .spot-group .atlas-btn { top: 10px; }
+  .spot-group .slick-dots { right: 5%; left: 5%; bottom: 30px; }
+  .scg-ti .tx1, .sog-ti { font-size: 28px; }
+  .fix-back a { background-color: rgba(229, 229, 229, 0.8); }
+  .sg-hots-list { padding: 0 5%; }
+  .scg-a .picbox:after { height: 136px; }
+  .seeBigImg .txts { padding: 0 5%; }
+  .ab-tx.w { margin-right: 5%; }
+  .ag-pa { margin-left: 0; }
+  .hotel-list .bodr, .agency-list .b, .agency-list .t { padding-left: 5%; padding-right: 5%; }
+  .gu-nav-box { overflow: hidden; overflow-x: auto; }
+  .to-a .to-date { float: none; margin-top: 0; }
+  .to-date { height: auto; }
+  .to-date p { display: inline; }
+  .to-date .y { position: static; }
+  .to-date .y span { display: inline; }
+  .to-a .b { margin-right: 0; padding-top: 15px; }
+  .to-a .tx { max-width: 100%; }
+  .to-a .txts { padding-right: 0; padding-top: 20px; }
+  .audio-a .txts .pa { padding-right: 0; }
+  .ad-fl .ab-title { float: none; max-width: none; }
+  .ad-fl .ab-tx { margin-top: 30px; float: none; width: 100%; }
+  .ad-fl .ab-tx .ix-line { display: none; }
+  .ad-fl { padding: 0 5%; }
+  .ab-fl .ab-tx { margin-top: 30px; }
+  .ab-title .gu-date-1 { margin-top: 50px; }
+  .at-tx.at-tx-1 { font-size: 32px; }
+  .banner-box .banner .item .vi { display: none; }
+  .gu-nav-box.no { display: block; }
+  .in-nav { display: none; }
+  .inbound-box .ab-tx { width: 100%; margin-top: 45px; }
+  .inbound-box { padding-right: 0; }
+  .gu3 { padding-top: 0; border: none; } }
 @media screen and (max-width: 861px) { .vwrap .videobox { width: 100%; left: 0; margin-left: 0; }
   .mcv { display: block; }
   .banner-box .banner .item .txts .tx2 { font-size: 60px; }
@@ -179,7 +333,57 @@
   .footer .share a { float: none; display: inline-block; vertical-align: bottom; letter-spacing: 0; }
   .footer .r { padding: 45px 0 35px 0; float: none; border-bottom: 1px solid #ccc; }
   .footer .l { float: none; }
-  .footer .f-cta, .footer .f-nav { text-align: center; } }
+  .footer .f-cta, .footer .f-nav { text-align: center; }
+  .at-ti .tx1 { font-size: 42px; }
+  .gu2, .ab4, .ab3, .ab2, .ab1 { padding-top: 85px; }
+  .sy-item { margin-bottom: 85px; }
+  .gu3, .gu1, .gu2, .ab4 { padding-bottom: 85px; }
+  .ab-mt { margin-top: 85px; }
+  .ab-mt-1 { margin-top: 40px; }
+  .ap-list { margin-left: 0; }
+  .ap-list .am-vision { margin-left: 0; }
+  .ap-list li { width: 100%; float: none; }
+  .ap-list li + li { margin-top: 20px; }
+  .pull-nav { border-bottom: none; }
+  .pull-nav dd .line3 { display: block; }
+  .pv-c { width: 50%; border-bottom: 1px solid #ccc; }
+  .dw-b-w { border-top: none; }
+  .dw-b-w a { width: 33.33%; }
+  .pull-nav-1 .dw-b-w { top: 50%; }
+  .avi-list li { width: 50%; }
+  .ab-title.ab-title-line .at-ti .tx1 { font-size: 42px; }
+  .scenic-item > .scenic-ti { top: 25px; height: auto; padding-bottom: 8px; }
+  .scenic-item > .scenic-ti .num { display: none; }
+  .scg-a .picbox .txts { padding-bottom: 25px; }
+  .sg-arrow, .scenic-arrow .slick-arrow { transform: scale(0.55); }
+  .scg-ti .tx2 { font-size: 12px; }
+  .scg-ti .tx1 { font-size: 22px; }
+  .scg-a .name, .sog-ti { font-size: 22px; }
+  .spot-group .slick-dots { position: static; text-align: center; margin-top: 25px; }
+  .spot-group .slick-dots li { background: #ccc; }
+  .spot-group .slick-dots li + li { margin-left: 20px; }
+  .spot-a .sog-ti { bottom: 20px; }
+  .spot-a .spo-ti { top: 15px; }
+  .scg-a .atlas-btn, .spot-group .atlas-btn { right: 15px; }
+  .spot-group .atlas-btn { top: 0; }
+  .sg-hots-list { margin-left: 0; }
+  .sg-hots-list .ma { margin-left: 0; }
+  .sg-hots-list li { width: 100%; float: none; }
+  .scg-a .b { padding: 55px 5% 45px 5%; }
+  .scg-a .l { padding-left: 0; float: none; }
+  .scg-a .ab-tx { width: 100%; float: none; margin-right: 0; margin-top: 15px; }
+  .scg-a .scg-arrow { display: none; }
+  .traffic-list .tf-ti { float: none; padding-left: 0; }
+  .ab-tx.w { margin-right: 0; }
+  .traffic-list .ab-tx { width: 100%; float: none; margin-top: 35px; }
+  .traffic-list li { padding-left: 5%; padding-right: 5%; }
+  .pager a { width: 68px; height: 68px; line-height: 68px; }
+  .to-a .picbox { width: 300px; }
+  .to-a .tx { font-size: 14px; line-height: 26px; height: 52px; margin-bottom: 35px; }
+  .to-a .ix-line { margin-bottom: 20px; }
+  .to-a .txts { padding-left: 35px; }
+  .audio-a .audio-ico { left: 0; }
+  .audio-a .txts .pa { padding-left: 50px; } }
 @media screen and (max-width: 641px) { .vwrap .videobox { height: 350px; margin-top: -175px; }
   .mo { display: block !important; }
   .pc { display: none !important; }
@@ -201,12 +405,38 @@
   .ic-a .pic { display: block; width: 100%; float: none; }
   .ix4 { padding-bottom: 65px; }
   .ix5 { padding-top: 60px; }
-  .ix5 .inw-list { margin-top: 75px; } }
+  .ix5 .inw-list { margin-top: 75px; }
+  .avi-a .avi-tx { font-size: 16px; padding-left: 15px; margin-top: 20px; }
+  .avi-list li { margin-bottom: 55px; }
+  .scenic-item > .scenic-ti { position: static; margin: 0 0 25px 5%; }
+  .scg-ti .tx2, .scg-a .atlas-btn { display: none; }
+  .spot-list { margin-left: 0; }
+  .spot-list > li { width: 100%; float: none; }
+  .spot-list > li + li { margin-top: 40px; }
+  .spot-list .spot-a { margin-left: 0; }
+  .sg-hots-list { padding: 0; }
+  .audio-list { border: none; overflow: hidden; }
+  .audio-list li { border: none; width: 48%; float: left; margin-right: 4%; margin-bottom: 35px; }
+  .audio-list li:nth-child(2n) { margin-right: 0; }
+  .audio-a .picbox { float: none; width: 100%; }
+  .audio-a .audio-pic { float: none; margin: 0 auto; }
+  .audio-a .txts .pa { padding: 0; }
+  .ad-fl { padding: 0; } }
+@media screen and (max-width: 601px) { .ab-fl { padding: 0; }
+  .at-ti .tx2 { display: inline-block; vertical-align: bottom; position: static; margin: 0 0 20px 0; }
+  .scenic-item > .scenic-ti { margin-left: 0; }
+  .traffic-list li { padding-left: 0; padding-right: 0; }
+  .tf-ti .ico { transform-origin: left center; transform: scale(0.8); margin-right: 10px; }
+  .tf-ti .ti { font-size: 28px; }
+  .gu-nav a { padding-top: 15px; padding-bottom: 15px; }
+  .to-a .picbox { width: 100%; float: none; }
+  .to-a .txts { padding-left: 0; padding-top: 25px; }
+  .audio-pic { width: 160px; height: 160px; }
+  .audio-pic:after { width: 52px; height: 52px; margin: -26px 0 0 -26px; } }
 @media screen and (max-width: 481px) { .vwrap .videobox { height: 300px; margin-top: -150px; }
+  .menu-handler { width: 32px; }
   .menu-handler .burger { width: 32px; cursor: help; margin-left: -16px; }
   .menuBox .navMobile { margin: 90px 0 50px; }
-  .navMobile p a { font-size: 16px; }
-  .navMobile .mtnav a { font-size: 14px; }
   .bt-name .nowti { padding: 0 20px; font-size: 18px; line-height: 40px; }
   .banner-box .banner .item .txts .tx1 { font-size: 18px; }
   .banner-box .banner .item .txts .tx2 { font-size: 30px; }
@@ -251,6 +481,66 @@
   .ix5 { padding-top: 50px; }
   .ix5 .inw-list { margin-top: 55px; }
   .inw-list { margin-left: 0; }
-  .inw-list li { float: none; width: 100%; }
-  .inw-list li .inw-a { margin-left: 0; } }
+  .inw-list li { float: none; width: 100%; margin-bottom: 0; }
+  .inw-list li + li { margin-top: 35px; }
+  .inw-list li .inw-a { margin-left: 0; }
+  .inw-a .txts { height: auto; }
+  .at-ti .tx2 { font-size: 12px; }
+  .at-ti .tx1 { font-size: 32px; }
+  .at-ti.at-ti-1 .tx1 { font-size: 32px; }
+  .at-tx { font-size: 18px; }
+  .ab-fl .ab-tx, .ab-title .at-num { margin-top: 35px; }
+  .gu2, .ab4, .ab3, .ab2, .ab1 { padding-top: 55px; }
+  .sy-item { margin-bottom: 55px; }
+  .gu3, .gu1, .gu2, .ab4 { padding-bottom: 55px; }
+  .ab-mt { margin-top: 45px; }
+  .ab-mt-1 { margin-top: 0; }
+  .mpnav a { padding-left: 20px; padding-right: 20px; }
+  .pull-nav .nowti { padding: 0 12px; }
+  .avi-list { margin-left: 0; }
+  .avi-list li { width: 100%; float: none; margin-bottom: 40px; }
+  .avi-list .avi-a { margin-left: 0; }
+  .avi-btn { transform: scale(0.5); }
+  .ab-title.ab-title-line { padding-left: 0; }
+  .ab-title.ab-title-line .at-num:before { display: none; }
+  .ab-title.ab-title-line .bodr { border: none; padding-left: 0; }
+  .ab-title.ab-title-line .bodr:before { display: none; }
+  .ab-title.ab-title-line .at-ti .tx1 { font-size: 32px; }
+  .avi-a .avi-tx { font-size: 16px; height: 20px; margin-top: 15px; }
+  .avi-a .avi-tx .nowti { line-height: 20px; }
+  .avi-a .tx { margin-top: 20px; }
+  .avi-a .ab-more { margin-top: 30px; }
+  .avi-a .txts { height: auto; }
+  .avi-a .txts .avi-tx { font-size: 16px; }
+  .ab-more .aw { margin-left: 5px; transform: scale(0.8); }
+  .at-ti.at-ti-1 .tx2 { margin-bottom: 20px; }
+  .ab-title .de-nav { margin-top: 35px; }
+  .sg-arrow, .scenic-arrow .slick-arrow { transform: scale(0.4); }
+  .scg-ti .tx1 { font-size: 18px; }
+  .scg-a .picbox .txts { padding-bottom: 15px; }
+  .scenic-ti .ti { font-size: 12px; }
+  .scenic-item > .scenic-ti { margin-bottom: 15px; }
+  .scg-a .picbox:after { height: 108px; }
+  .de-mt { margin-top: 55px; }
+  .spot-group .slick-dots { margin-top: 15px; }
+  .spot-list > li + li { margin-top: 25px; }
+  .atlas-btn { transform-origin: right top; transform: scale(0.9); }
+  .scg-a .b { padding-top: 45px; }
+  .gu-mt { margin-top: 55px; }
+  .tf-ti .ico { transform: scale(0.65); margin-right: 0; }
+  .tf-ti .ti { font-size: 22px; }
+  .traffic-list li { padding-top: 35px; }
+  .traffic-list .ab-tx { margin-top: 25px; }
+  .ag-ti { font-size: 22px; }
+  .ag-link a { transform-origin: right top; transform: scale(0.7); }
+  .pager a { width: 58px; height: 58px; line-height: 58px; }
+  .pager a + a { margin-left: 10px; }
+  .ag-link a + a { margin-top: -10px; }
+  .hotel-list .ag-ti { margin-top: 50px; }
+  .audio-pic { width: 200px; height: 200px; }
+  .audio-pic:after { width: 64px; height: 64px; margin: -32px 0 0 -32px; }
+  .audio-ico { transform-origin: left top; transform: scale(0.8); }
+  .audio-list li { width: 100%; margin-right: 0; }
+  .audio-list li:nth-child(2n) { margin-right: 0; }
+  .at-tx.at-tx-3 { font-size: 18px; } }
 @media screen and (max-width: 321px) { .vwrap .videobox { height: 260px; margin-top: -130px; } }

@@ -2,3 +2,4 @@
 /src/
 *.json
 *.js
+/.sass-cache/
